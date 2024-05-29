@@ -17,7 +17,7 @@ Live Link - https://pdf-langchain-openai-chatbot.streamlit.app/
 - [Streamlit](https://streamlit.io/): Used for building the web application interface.
 - [LangChain](https://python.langchain.com/): Provides text processing and analysis functionalities.
 - [OpenAI](https://platform.openai.com/docs/models) LLM Model: Used for natural language processing tasks.
-- [PyPDF2](https://pythonhosted.org/PyPDF2/): Used for reading PDF files.
+- [PyPDF2](https://pypi.org/project/PyPDF2/): Used for reading PDF files.
 - [FAISS](https://github.com/facebookresearch/faiss): Used for similarity search functionality.
 - [dotenv](https://pypi.org/project/python-dotenv/): Used for loading environment variables.
 - [pickle](https://docs.python.org/3/library/pickle.html): Used for serializing and deserializing Python objects.
